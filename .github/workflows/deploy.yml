@@ -1,5 +1,7 @@
 name: Deploy Plugin via FTP
 
+name: Deploy Plugin via FTP
+
 on:
   push:
     branches:
@@ -10,7 +12,9 @@ on:
       - '**.json'
       - '**.md'
       - '!README.md'
-workflow_dispatch:
+
+  workflow_dispatch:
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
