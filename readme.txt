@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Manage Brevo Email Templates and Campaigns via Gutenberg blocks.
+Manage Brevo Email Templates & Campaigns via Gutenberg blocks.
 
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/scm-brevo-campaigns` directory, or install the plugin through the WordPress plugins screen directly.
