@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: SCM Brevo Campaigns
- * Description: Manage Brevo Email Templates and Campaigns via Gutenberg blocks.
+ * Description: Manage Brevo Email Templates & Campaigns via Gutenberg blocks.
  * Version: 0.1.1
  * Author: Screechy Cat Media
  * Text Domain: scm-brevo-campaigns
