@@ -3,7 +3,7 @@
  * Plugin Name: SCM Brevo Campaigns
  * Description: Manage Brevo Email Templates & Campaigns via Gutenberg blocks.
  * Version: 0.1.1
- * GitHub Plugin URI: joemathieu/scm-brevo-campaigns
+ * GitHub Plugin URI: 3JsandaK/scm-brevo-campaigns
  * GitHub Branch: main
  * Author: Screechy Cat Media
  * Text Domain: scm-brevo-campaigns
